@@ -12,6 +12,10 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=gui1080)](https://github.com/anuraghazra/github-readme-stats)
 
+## Top programming Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1080)](https://github.com/anuraghazra/github-readme-stats)
+
+  - I actually like Python a lot, but I have to use C/C++ on most of my assignments. Java was the first programming language that I tried to learn back in 2015, but I only really started coding when I learned C in 2017. 
 
 [UnB]: https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia
