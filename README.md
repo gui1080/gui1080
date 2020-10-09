@@ -3,7 +3,7 @@
 ## I'm a Computer Engineering Student at [University of Brasilia][UnB]
 
 - 🔭 I’m currently on my 6th semester at UnB.
-- 🌱 I’m currently I'm focusing on learning websemantics and eletrical circuits (most of the time).
+- 🌱 I’m currently focusing on learning websemantics and eletrical circuits (most of the time).
 - 📫 Email: g_braga_545@protonmail.com 
 - ⚡ Fun fact: I can speak 3 different languages, but not at the same time (unfortunately). 
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music and jogging. 
