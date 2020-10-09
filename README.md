@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Guilherme Braga! 👋
+
+## I'm a Computer Engineering Student at [University of Brasilia][https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia]
+
+- 🔭 I’m currently on my 6th semester at UnB.
+- 🌱 I’m currently I'm focusing on learning websemantics and eletrical circuits (most of the time).
+- 💬 Ask me about my taste on music!
+- 📫 Email: g_braga_545@protonmail.com 
+- ⚡ Fun fact: I can speak 3 different languages, but not at the same time unfortunately. 
 
 <!--
 **gui1080/gui1080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[UnB]: https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia
