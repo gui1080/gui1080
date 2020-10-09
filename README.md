@@ -1,6 +1,6 @@
 ### Hi there, I'm Guilherme Braga! 👋
 
-## I'm a Computer Engineering Student at [University of Brasilia][https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia]
+## I'm a Computer Engineering Student at [University of Brasilia][UnB]
 
 - 🔭 I’m currently on my 6th semester at UnB.
 - 🌱 I’m currently I'm focusing on learning websemantics and eletrical circuits (most of the time).
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[University of Brasilia]: https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia
+[UnB]: https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia
