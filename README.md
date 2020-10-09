@@ -4,22 +4,13 @@
 
 - 🔭 I’m currently on my 6th semester at UnB.
 - 🌱 I’m currently I'm focusing on learning websemantics and eletrical circuits (most of the time).
-- 💬 Ask me about my taste on music!
 - 📫 Email: g_braga_545@protonmail.com 
-- ⚡ Fun fact: I can speak 3 different languages, but not at the same time unfortunately. 
+- ⚡ Fun fact: I can speak 3 different languages, but not at the same time (unfortunately). 
+- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music and jogging. 
 
-<!--
-**gui1080/gui1080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [UnB]: https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia
