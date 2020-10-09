@@ -8,9 +8,10 @@
 - ⚡ Fun fact: I can speak 3 different languages, but not at the same time (unfortunately). 
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music and jogging. 
 
-
+## Stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=gui1080)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1080)](https://github.com/anuraghazra/github-readme-stats)
 
 [UnB]: https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia
