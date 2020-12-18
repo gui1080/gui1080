@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently on my 7th semester at UnB.
 - 🌱 I’m currently focusing on learning websemantics/ontologies.
-- 📫 Email: g_braga_545@protonmail.com 
+- 📫 Public email: g_braga_545@protonmail.com 
 - ⚡ Fun fact: I can speak 3 different languages, but not at the same time (unfortunately). 
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music and jogging. 
 
