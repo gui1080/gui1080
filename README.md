@@ -2,7 +2,7 @@
 
 ## I'm a Computer Engineering Student at [University of Brasilia][UnB]
 
-- 🔭 I’m currently on my 7th semester at UnB.
+- 🔭 I’m currently on my 8th semester at UnB.
 - 🌱 I’m currently learning websemantics/ontologies.
 - 📫 Public email: g_braga_545@protonmail.com 
 - ⚡ Fun fact: I can speak 3 different languages, but not at the same time (unfortunately due to the human body's limitations). 
