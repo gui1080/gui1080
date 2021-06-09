@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Guilherme Spotify Playing" width="350" />](https://open.spotify.com/user/227pjpdmjylatjnku3se4mwkq?si=c909e351aef74168)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Guilherme Spotify Playing" width="350" />](https://open.spotify.com/track/7l6N7gAeOhMEtrQkJDfelD)
 
 ## Stats
 
