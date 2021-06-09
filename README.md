@@ -5,8 +5,12 @@
 - 🔭 I’m currently on my 8th semester at UnB.
 - 🌱 I’m currently learning websemantics/ontologies.
 - 📫 Public email: g_braga_545@protonmail.com 
-- ⚡ Fun fact: I can speak 3 different languages, but not at the same time (unfortunately due to the human body's limitations). 
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music and jogging. 
+- 😳 This profile looks better with dark mode, highly recommended. 
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/227pjpdmjylatjnku3se4mwkq?si=e28baefeb2cc432a)
 
 ## Stats
 
