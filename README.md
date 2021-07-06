@@ -2,8 +2,8 @@
 
 ## I'm a Computer Engineering Student at [University of Brasilia][UnB]
 
-- 🔭 I’m currently on my 8th semester at UnB.
-- 🌱 I’m currently learning websemantics/ontologies.
+- 🔭 I’m currently on my 7th semester at UnB.
+- 🌱 I’m currently learning websemantics/ontologies and NodeJS!.
 - 📫 Public email: g_braga_545@protonmail.com 
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music and jogging. 
 - 😳 This profile looks better with dark mode, highly recommended. 
