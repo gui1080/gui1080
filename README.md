@@ -8,6 +8,8 @@
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, jogging/hiking and Magic: The Gathering. 
 - 😳 This profile looks better with dark mode, highly recommended. 
 
+[![Spotify](https://gui1080.vercel.app/api/spotify)](https://open.spotify.com/user/227pjpdmjylatjnku3se4mwkq)
+
 ## Stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
