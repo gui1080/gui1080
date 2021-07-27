@@ -5,7 +5,7 @@
 - 🔭 I’m currently on my 7th semester at UnB.
 - 🌱 I’m currently interested in websemantics/ontologies and NodeJS!
 - 📫 Public email: g_braga_545@protonmail.com 
-- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music and jogging. 
+- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, jogging/hiking and Magic: The Gathering. 
 - 😳 This profile looks better with dark mode, highly recommended. 
 
 ## Stats
