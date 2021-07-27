@@ -8,7 +8,7 @@
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, jogging/hiking and Magic: The Gathering. 
 - 😳 This profile looks better with dark mode, highly recommended. 
 
-[![Spotify](https://gui1080.vercel.app/api/spotify)](https://open.spotify.com/user/gui1080)
+[<img src="https://novatorem-gui1080.vercel.app/api/spotify" alt="Guilherme’s Spotify is Playing" width="350" />](https://open.spotify.com/user/227pjpdmjylatjnku3se4mwkq
 
 ## Stats
 
