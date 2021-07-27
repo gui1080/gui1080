@@ -24,16 +24,21 @@
 
 ## Stats
 
+<div align="center">
 [![My github stats](https://github-readme-stats.vercel.app/api?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Top programming Languages
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Activities
 
+<div align="center">
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gui1080)  
-
+</div>
 
 ## “What though the field be lost? All is not Lost; the unconquerable will, And study of revenge, immortal hate, And the courage never to submit or yeild.” ― John Milton, Paradise Lost 
 
