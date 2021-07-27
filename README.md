@@ -16,7 +16,11 @@
 
 ## Metrics
 
+<div align="center">
+
 ![GitHub metrics](https://metrics.lecoq.io/gui1080)  
+
+</div>
 
 ## Stats
 
