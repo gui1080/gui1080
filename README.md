@@ -10,33 +10,35 @@
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, jogging/hiking and Magic: The Gathering. 
 - 😳 This profile looks better with dark mode, highly recommended. 
 
+<div align="center">
+
 ## My Spotify
 
 <img src="https://novatorem-gui1080.vercel.app/api/spotify" alt="Guilherme’s Spotify is Playing" width="550" />
 
 ## Metrics
 
-<div align="center">
+
 
 ![GitHub metrics](https://metrics.lecoq.io/gui1080)  
 
-</div>
+
 
 ## Stats
 
-<div align="center">
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 ## Top programming Languages
 
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 ## Activities
 
-<div align="center">
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gui1080)  
 </div>
 
