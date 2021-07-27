@@ -10,7 +10,7 @@
 
 ## My Spotify
 
-<img src="https://novatorem-gui1080.vercel.app/api/spotify" alt="Guilherme’s Spotify is Playing" width="450" />
+<img src="https://novatorem-gui1080.vercel.app/api/spotify" alt="Guilherme’s Spotify is Playing" width="550" />
 
 ## Stats
 
