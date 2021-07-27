@@ -2,6 +2,8 @@
 
 ## I'm a Computer Engineering Student at [University of Brasilia][UnB]
 
+![Profile views](https://gpvc.arturio.dev/gui1080)  
+
 - 🔭 I’m currently on my 7th semester at UnB.
 - 🌱 I’m currently interested in websemantics/ontologies and NodeJS!
 - 📫 Public email: g_braga_545@protonmail.com 
@@ -11,6 +13,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gui1080)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-braga-1031301a6//)  
 
+## Metrics
+
+![GitHub metrics](https://metrics.lecoq.io/gui1080)  
 
 ## My Spotify
 
@@ -19,6 +24,11 @@
 ## Stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Activities
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gui1080)  
+
 
 ## Top programming Languages
 
