@@ -21,13 +21,7 @@
 
 
 ![GitHub metrics](https://metrics.lecoq.io/gui1080) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-
-
-## Activities
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gui1080)  
-</div>
+  
 
 ## “What though the field be lost? All is not Lost; the unconquerable will, And study of revenge, immortal hate, And the courage never to submit or yeild.” ― John Milton, Paradise Lost 
 
