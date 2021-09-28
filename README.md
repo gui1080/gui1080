@@ -4,10 +4,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/gui1080)  
 
-- 🔭 I’m currently on my 7th semester at UnB.
+- 🔭 I’m currently on my 8th semester at UnB.
 - 🌱 I’m currently interested in websemantics/ontologies, NodeJS and Data Science!
 - 📫 Public email: g_braga_545@protonmail.com 
-- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, jogging/hiking and Magic: The Gathering. 
+- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, jogging/hiking, D&D and Magic: The Gathering. 
 - 😳 This profile looks better with dark mode, highly recommended. 
 - 🇪🇸 🇺🇸 🇧🇷
 
