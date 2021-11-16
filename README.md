@@ -2,9 +2,7 @@
 
 ## I'm a Computer Engineering Student at [University of Brasilia][UnB]
 
-![Profile views](https://gpvc.arturio.dev/gui1080)  
-[![Medium](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![LinkedIn](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)][2]
+![Profile views](https://gpvc.arturio.dev/gui1080) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][1] [![LinkedIn](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)][2]
 
 - 🔭 I’m almost graduating!
 - 🌱 I’m currently interested in websemantics/ontologies, NodeJS and Data Science!
