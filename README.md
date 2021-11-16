@@ -2,7 +2,7 @@
 
 ## I'm a Computer Engineering Student at [University of Brasilia][UnB]
 
-![Profile views](https://gpvc.arturio.dev/gui1080)  
+![Profile views](https://gpvc.arturio.dev/gui1080)  ![Medium](https://guibraga.medium.com/) ![LinkedIn](https://www.linkedin.com/in/gui8600k/)
 
 - 🔭 I’m almost graduating!
 - 🌱 I’m currently interested in websemantics/ontologies, NodeJS and Data Science!
