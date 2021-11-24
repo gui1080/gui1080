@@ -38,7 +38,9 @@
 ![GitHub metrics](https://metrics.lecoq.io/gui1080)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-<h2> “What though the field be lost? 
+<h2 align="center"> 
+  
+“What though the field be lost? 
   
 All is not Lost; 
   
@@ -50,7 +52,9 @@ immortal hate,
   
 And the courage never to submit or yeild.” 
   
-― John Milton, Paradise Lost </h2>
+― John Milton, Paradise Lost 
+
+</h2>
 
   
 [UnB]: https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia
