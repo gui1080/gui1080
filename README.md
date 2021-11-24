@@ -39,12 +39,19 @@
 
 
 <h2> “What though the field be lost? 
+  
 All is not Lost; 
+  
 the unconquerable will, 
+  
 And study of revenge, 
+  
 immortal hate, 
+  
 And the courage never to submit or yeild.” 
+  
 ― John Milton, Paradise Lost </h2>
+
   
 [UnB]: https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia
 
