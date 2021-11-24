@@ -9,7 +9,7 @@
 - 📫 Public email: g_braga_545@protonmail.com 
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, jogging/hiking, D&D and Magic: The Gathering. 
 - 😳 This profile looks better with dark mode, highly recommended. 
-- 🇪🇸 🇺🇸 🇧🇷
+- :bolivia: :us: :brazil:
 
 ## You can find me on
 
