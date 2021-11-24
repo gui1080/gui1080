@@ -22,12 +22,13 @@
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 
+
 ## My Spotify
 
-<div align="center">
 <img src="https://novatorem-gui1080.vercel.app/api/spotify" alt="Guilherme’s Spotify is Playing" width="550" />
-</div>
-  
+
+
+
 ## Metrics
 
 ![GitHub metrics](https://metrics.lecoq.io/gui1080) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
