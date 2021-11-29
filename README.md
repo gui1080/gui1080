@@ -14,7 +14,6 @@
 ## You can find me on
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://guibraga.medium.com/) 
-[![Resumé](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://docdro.id/oyEKPii)
 [![Instagram](https://img.shields.io/badge/gui_8600k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gui_8600k)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/227pjpdmjylatjnku3se4mwkq?si=NwFlfvREQfO49hTafmq77A&utm_source=copy-link)
 [![LinkedIn](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui8600k/)
