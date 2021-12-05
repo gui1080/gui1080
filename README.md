@@ -7,7 +7,7 @@
 - 🔭 I’m almost graduating!
 - 🌱 I’m currently interested in websemantics/ontologies, NodeJS and Data Science!
 - 📫 Public email: g_braga_545@protonmail.com 
-- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, jogging/hiking, D&D and Magic: The Gathering. 
+- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, jogging/hiking, D&D, MTG/VtES/Keyforge/Boardgames. 
 - :trollface: This profile looks better with dark mode, highly recommended. 
 - :bolivia: :us: :brazil:
 
