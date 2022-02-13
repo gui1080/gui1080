@@ -35,7 +35,11 @@
   
 ## Metrics
 
-![GitHub metrics](https://metrics.lecoq.io/gui1080)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+<div align="center" display="flex">
+
+**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1080&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+</div>
 
 <br>
 
