@@ -5,7 +5,7 @@
 ## I'm a Computer Engineering Student at [University of Brasilia][UnB]
 
 - 🔭 I’m almost graduating!
-- 👨🏻‍💻 I'm currently an Intern at Anatel, working automation using Python!
+- 👨🏻‍💻 I'm currently an Intern at ![Anatel](https://www.gov.br/anatel/pt-br), working automation using Python!
 - 🌱 I’m currently interested in Artificial Intelligence, Websemantics/Ontologies, and Data Science!
 - 📫 Public email: g_braga_545@protonmail.com 
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, amateur photography, jogging/hiking, RPGs/D&D, Magic: The Gathering (I'm a Commander and Pauper amateur player), Vampire: The Eternal Struggle, Keyforge and some boardgames (Munchkin, Coup, Quartz). 
