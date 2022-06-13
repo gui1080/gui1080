@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Guilherme+Braga!)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/gui1080/gui1080/master/wave.gif" width="30px">
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Guilherme+Braga!)](https://git.io/typing-svg) 
 
 ![Profile views](https://gpvc.arturio.dev/gui1080) 
 
