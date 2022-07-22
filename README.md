@@ -8,7 +8,7 @@
 - 👨🏻‍💻 I'm currently an Intern at [Anatel], working with automation anda Data Science using Python!
 - 🌱 I’m currently interested in Artificial Intelligence, Websemantics/Ontologies, and Data Science!
 - 📫 Public email: g_braga_545@protonmail.com 
-- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, amateur photography, jogging/hiking, RPGs/D&D, Magic: The Gathering (I'm a Commander and Pauper amateur player), Vampire: The Eternal Struggle, Keyforge and some boardgames (Munchkin, Coup, Quartz). 
+- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, amateur photography, jogging/hiking, RPGs/D&D, Magic: The Gathering (I'm into Commander and Pauper), Vampire: The Eternal Struggle, Keyforge and some boardgames (Munchkin, Coup, Quartz, Binding of Isaac: Four Souls and others). 
 - 🤫 Currently trying to play on my free time: Dark Souls Remastered and Age of Empires II. 
 - :trollface: This profile looks better with dark mode, highly recommended. 
 - :bolivia: :us: :brazil:
