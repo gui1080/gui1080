@@ -1,14 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Hi,%20I'm%20Guilherme!&fontSize=90&animation=fadeIn)
 
 <p align="center" width="100%">
-    <img src="https://github.com/gui1080/gui1080/blob/main/giphy.gif"> 
-</p>
+   <img src="https://github.com/gui1080/gui1080/blob/main/giphy.gif"> 
+    
+   </br>
+    
+   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://guibraga.medium.com/) 
+   [![Instagram](https://img.shields.io/badge/gui_8600k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gui_8600k)
+   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/227pjpdmjylatjnku3se4mwkq?si=NwFlfvREQfO49hTafmq77A&utm_source=copy-link)
+   [![LinkedIn](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui8600k/)
 
-![Profile views](https://gpvc.arturio.dev/gui1080) 
+</p>
 
 ## I'm a Computer Engineering from Brazil!
 
-- 🔭 I just graduated at UnB!
+![Profile views](https://gpvc.arturio.dev/gui1080) 
+
+- 🔭 I just graduated at University of Brasília as a Computer Engineer!
 - 🌱 I’m currently interested in Backend development, Artificial Intelligence, Websemantics/Ontologies, and all things Data!
 - 📫 Public email: g_braga_545@protonmail.com 
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, amateur photography, jogging/hiking, RPGs/D&D, Magic: The Gathering (I'm into Commander and Pauper), Vampire: The Eternal Struggle, Keyforge and some boardgames (Munchkin, Coup, Quartz, Binding of Isaac: Four Souls and others). 
@@ -17,10 +25,6 @@
 
 ## You can find me on
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://guibraga.medium.com/) 
-[![Instagram](https://img.shields.io/badge/gui_8600k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gui_8600k)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/227pjpdmjylatjnku3se4mwkq?si=NwFlfvREQfO49hTafmq77A&utm_source=copy-link)
-[![LinkedIn](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui8600k/)
 
 ## Some of my skills and interests!
 
