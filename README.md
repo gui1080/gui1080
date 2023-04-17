@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Hi,%20I'm%20Guilherme!&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=Hi,%20I'm%20Guilherme!&fontSize=70&animation=fadeIn)
 
 <p align="center" width="100%">
    <img src="https://github.com/gui1080/gui1080/blob/main/giphy.gif"> 
