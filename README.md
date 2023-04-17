@@ -1,4 +1,5 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Guilherme+Braga!)](https://git.io/typing-svg) 
+
+![giphy](https://github.com/gui1080/gui1080/blob/main/giphy.gif)
 
 ![Profile views](https://gpvc.arturio.dev/gui1080) 
 
