@@ -1,6 +1,6 @@
 
 <div align="center" display="flex">
-  ![giphy](https://github.com/gui1080/gui1080/blob/main/giphy.gif)
+  <iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
 </div>
 
 ![Profile views](https://gpvc.arturio.dev/gui1080) 
