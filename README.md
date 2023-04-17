@@ -21,6 +21,7 @@
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, amateur photography, jogging/hiking, RPGs/D&D, Magic: The Gathering (I'm into Commander and Pauper), Vampire: The Eternal Struggle, Keyforge and some boardgames (Munchkin, Coup, Quartz, Binding of Isaac: Four Souls and others). 
 - :trollface: This profile looks better with dark mode, highly recommended. 
 - I'm a native :brazil: Portuguese speaker, but I know :bolivia: Spanish and :us: English! 
+- It's okay not to know how to pronounce my name.
 
 
 ## Some of my skills and interests!
