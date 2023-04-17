@@ -1,7 +1,7 @@
 
-<div align="center" display="flex">
-  <iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
-</div>
+<p align="center" width="100%">
+![giphy](https://github.com/gui1080/gui1080/blob/main/giphy.gif)
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/gui1080) 
 
