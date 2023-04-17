@@ -1,7 +1,8 @@
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![giphy](https://github.com/gui1080/gui1080/blob/main/giphy.gif)
-
+<p align="center" width="100%">
+    <img src="[https://i.stack.imgur.com/RJj4x.png](https://github.com/gui1080/gui1080/blob/main/giphy.gif)"> 
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/gui1080) 
 
