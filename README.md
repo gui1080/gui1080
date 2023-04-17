@@ -1,6 +1,6 @@
 
 
-                  ![giphy](https://github.com/gui1080/gui1080/blob/main/giphy.gif)
+   ![giphy](https://github.com/gui1080/gui1080/blob/main/giphy.gif)
 
 
 ![Profile views](https://gpvc.arturio.dev/gui1080) 
