@@ -6,7 +6,7 @@
 </br>
 
 
-## I'm a Computer Engineering from Brazil!
+## I'm a Computer Engineer!
 
 ![Profile views](https://gpvc.arturio.dev/gui1080) 
 </br>
