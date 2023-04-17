@@ -1,5 +1,7 @@
 
-![giphy](https://github.com/gui1080/gui1080/blob/main/giphy.gif)
+<div align="center" display="flex">
+  ![giphy](https://github.com/gui1080/gui1080/blob/main/giphy.gif)
+</div>
 
 ![Profile views](https://gpvc.arturio.dev/gui1080) 
 
