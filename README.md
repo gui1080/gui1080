@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=Hi,%20I'm%20Guilherme!&fontSize=70&animation=fadeIn)
 
-</br>
-
 ## I'm a Computer Engineer!
 
 ![Profile views](https://gpvc.arturio.dev/gui1080) 
