@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui8600k/)
 
 - 🔭 I graduated at University of Brasília as a Computer Engineer and I am currently taking postgraduate classes in Applied Computing.
-- 👨‍🌾 Software Developer.
+- 👨‍🌾 Software Developer at Banco do Brasil.
 - 🌱 I’m currently interested in Backend development, Artificial Intelligence, Websemantics/Ontologies, and all things Data!
 - 📫 Public email: g_braga_545@protonmail.com 
 - 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, amateur photography, jogging/hiking, RPGs/D&D, Magic: The Gathering (I'm into Commander and Pauper), Vampire: The Eternal Struggle, Keyforge and some boardgames (Munchkin, Coup, Quartz, Binding of Isaac: Four Souls and others). 
