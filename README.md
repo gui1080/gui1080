@@ -9,11 +9,11 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/227pjpdmjylatjnku3se4mwkq?si=NwFlfvREQfO49hTafmq77A&utm_source=copy-link)
 [![LinkedIn](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui8600k/)
 
-- 🔭 I graduated at University of Brasília as a Computer Engineer and I am currently taking postgraduate classes in Applied Computing.
-- 👨‍🌾 Software Developer at Banco do Brasil.
+- 🔭 I graduated at University of Brasília as a Computer Engineer and I am currently taking postgraduate classes in Data Science and Big Data (PUC Minas).
+- 👨‍🌾 Engineer at Banco do Brasil.
 - 🌱 I’m currently interested in Backend development, Artificial Intelligence, Websemantics/Ontologies, and all things Data!
 - 📫 Public email: g_braga_545@protonmail.com 
-- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, amateur photography, jogging/hiking, RPGs/D&D, Magic: The Gathering (I'm into Commander and Pauper), Vampire: The Eternal Struggle, Keyforge and some boardgames (Munchkin, Coup, Quartz, Binding of Isaac: Four Souls and others). 
+- 🤔 Personal interests: PC building (thanks r/pcmasterrace), music, the stock market, amateur photography, jogging/hiking, RPGs/D&D, Magic: The Gathering (EDH and cEDH), Vampire: The Eternal Struggle, Keyforge and some boardgames (Munchkin, Coup, Quartz, Binding of Isaac: Four Souls and others). 
 - :trollface: This profile looks better with dark mode, highly recommended. 
 - I'm a native :brazil: Portuguese speaker, but I know :bolivia: Spanish and :us: English! 
 - It's okay not to know how to pronounce my name If you are not brazilian, really.
