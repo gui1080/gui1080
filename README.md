@@ -38,17 +38,6 @@
 
 ![BTC](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
-
-## My Spotify
-
-<div align="center" display="flex">
-
-<img src="https://novatorem-gui1080.vercel.app/api/spotify" alt="Guilherme’s Spotify is Playing" width="550" />
-
-</div>
-  
-<br>
-
 #### _"To understand and be understood is to be free" ~ Daniel Johnston_
 
 #### _“What though the field be lost? All is not Lost; the unconquerable will, And study of revenge, immortal hate, And the courage never to submit or yeild.” ~ John Milton, Paradise Lost_
