@@ -27,8 +27,6 @@
 
 #### _"To understand and be understood is to be free" ~ Daniel Johnston_
 
-#### _“What though the field be lost? All is not Lost; the unconquerable will, And study of revenge, immortal hate, And the courage never to submit or yeild.” ~ John Milton, Paradise Lost_
-
 <br>
 
 BTC Address - bc1qjmxhl8wk74njzr6khavcnqd4wflksj8y95d7l9
