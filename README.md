@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=Hi,%20I'm%20Guilherme!&fontSize=70&animation=fadeIn)
 
-## I'm a Computer Engineer!
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://guibraga.medium.com/) 
-[![Instagram](https://img.shields.io/badge/gui_8600k%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gui_8600k)
-[![LinkedIn](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui8600k/)
+## Hi!
 
 - 🔭 Graduated at University of Brasília as a Computer Engineer. Specialist degree by Data Science and Big Data (PUC Minas). Currently pursuing a masters degree in Statistics (University of Brasília).
 - 👨‍🌾 Data Analyst at Banco do Brasil.
